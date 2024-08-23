@@ -2,7 +2,7 @@
 
 | Dia  | Desafio                                                   | Recursos                                           | Status  |
 |------|-----------------------------------------------------------|----------------------------------------------------|--------|
-| 1    | Escreva um programa C# que imprima "Olá, Mundo!" no console. | Conceitos básicos de C#, saída no console. |   |
+| 1    | Escreva um programa C# que imprima "Olá, Mundo!" no console. | Conceitos básicos de C#, saída no console. | Concluído✅  |
 | 2    | Declare uma variável em C#, atribua um número a ela e imprima o número no console. | Declaração de variáveis em C#. |   |
 | 3    | Crie um programa C# que leia dois números do usuário, calcule a soma e imprima o resultado. | Entrada do usuário em C#, operações matemáticas. |  |
 | 4    | Escreva um programa C# que verifique se um número é par ou ímpar e imprima o resultado. | Estruturas condicionais em C#. |   |
