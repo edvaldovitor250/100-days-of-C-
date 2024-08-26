@@ -4,7 +4,7 @@
 |------|-----------------------------------------------------------|----------------------------------------------------|--------|
 | 1    | Escreva um programa C# que imprima "Olá, Mundo!" no console. | Conceitos básicos de C#, saída no console. | Concluído✅  |
 | 2    | Declare uma variável em C#, atribua um número a ela e imprima o número no console. | Declaração de variáveis em C#. | Concluído✅  |
-| 3    | Crie um programa C# que leia dois números do usuário, calcule a soma e imprima o resultado. | Entrada do usuário em C#, operações matemáticas. |  |
+| 3    | Crie um programa C# que leia dois números do usuário, calcule a soma e imprima o resultado. | Entrada do usuário em C#, operações matemáticas. | Concluído✅  |
 | 4    | Escreva um programa C# que verifique se um número é par ou ímpar e imprima o resultado. | Estruturas condicionais em C#. |   |
 | 5    | Crie uma função em C# para calcular o fatorial de um número. | Laços de repetição em C#. |  |
 | 6    | Implemente um programa C# para verificar se um número é um número primo. | Algoritmos de verificação de números primos em C#. | |
