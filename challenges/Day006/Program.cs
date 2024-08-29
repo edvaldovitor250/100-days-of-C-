@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 
 namespace Day006
 {
@@ -6,31 +7,18 @@ namespace Day006
     {
         static void Main(string[] args)
         {
-            Console.Write("Digite um número para saber se é Primo: ");
+            Console.Write("Digite um numero para saber se é Primo: ");
             int numero = int.Parse(Console.ReadLine());
 
-            if (IsPrime(numero))
-            {
-                Console.WriteLine(numero + " é um número Primo");
-            }
-            else
-            {
-                Console.WriteLine(numero + " não é um número Primo");
-            }
-        }
-
-        static bool IsPrime(int numero)
-        {
-            if (numero <= 1) return false;
-
-            for (int i = 2; i <= Math.Sqrt(numero); i++)
-            {
-                if (numero % i == 0)
+            for (int i = numero; i < numero; i++){
+                if (i == 1)
                 {
-                    return false;
+                    Console.WriteLine(numero + " é um número Primo");
                 }
+                
             }
-            return true;
+
         }
     }
 }
+
