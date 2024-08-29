@@ -8,7 +8,7 @@
 | 4    | Escreva um programa C# que verifique se um número é par ou ímpar e imprima o resultado. | Estruturas condicionais em C#.| Concluído✅  |
 | 5    | Crie uma função em C# para calcular o fatorial de um número. | Laços de repetição em C#. | Concluído✅  |
 | 6    | Implemente um programa C# para verificar se um número é um número primo. | Algoritmos de verificação de números primos em C#.  | Concluído✅  |
-| 7    | Escreva um programa C# que inverta uma string. | Manipulação de strings em C#. |   |
+| 7    | Escreva um programa C# que inverta uma string. | Manipulação de strings em C#. | Concluído✅  |
 | 8    | Crie uma classe em C# para representar uma calculadora básica com operações de soma, subtração, multiplicação e divisão. | POO (Programação Orientada a Objetos) em C#. |  |
 | 9    | Implemente um programa C# que ordene um array de números. | Algoritmos de ordenação em C#. |  |
 | 10   | Escreva um programa C# que converta uma temperatura de Celsius para Fahrenheit e vice-versa. | Conceitos básicos de conversão de unidades em C#. |   |
