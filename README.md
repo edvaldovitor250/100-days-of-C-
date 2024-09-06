@@ -16,7 +16,7 @@
 | 12   | Implemente um programa C# que calcule a média de uma lista de números. | Manipulação de arrays em C#. | Concluído✅  |
 | 13   | Escreva um programa C# que verifique se uma string é um palíndromo. | Manipulação de strings em C#.| Concluído✅  | 
 | 14   | Crie uma classe em C# para representar um sistema de gerenciamento de alunos com operações de adicionar, remover e atualizar informações dos alunos. | POO em C#. | Concluído✅  |
-| 15   | Implemente um programa C# que simule uma fila de banco, com operações de entrada e saída de clientes. | Estruturas de dados em C#. |  |
+| 15   | Implemente um programa C# que simule uma fila de banco, com operações de entrada e saída de clientes. | Estruturas de dados em C#. | Concluído✅  |
 | 16   | Escreva um programa C# que realize a multiplicação de matrizes. | Manipulação de matrizes em C#. |   |
 | 17   | Crie uma classe em C# para representar um sistema de gestão de funcionários com operações de adicionar, remover e atualizar informações dos funcionários. | POO em C#. |   |
 | 18   | Implemente um programa C# que calcule o valor de π (pi) usando a série de Leibniz. | Algoritmos de cálculo em C#. | |
