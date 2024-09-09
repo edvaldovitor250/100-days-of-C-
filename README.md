@@ -19,7 +19,7 @@
 | 15   | Implemente um programa C# que simule uma fila de banco, com operações de entrada e saída de clientes. | Estruturas de dados em C#. | Concluído✅  |
 | 16   | Escreva um programa C# que realize a multiplicação de matrizes. | Manipulação de matrizes em C#. | Concluído✅  |
 | 17   | Crie uma classe em C# para representar um sistema de gestão de funcionários com operações de adicionar, remover e atualizar informações dos funcionários. | POO em C#. | Concluído✅  |
-| 18   | Implemente um programa C# que calcule o valor de π (pi) usando a série de Leibniz. | Algoritmos de cálculo em C#. | |
+| 18   | Implemente um programa C# que calcule o valor de π (pi) usando a série de Leibniz. | Algoritmos de cálculo em C#. | Concluído✅  |
 | 19   | Escreva um programa C# que gere os primeiros N números da sequência de Fibonacci. | Laços de repetição em C#. |   |
 | 20   | Crie uma classe em C# para representar um sistema de gerenciamento de produtos com operações de adicionar, remover e atualizar informações dos produtos. | POO em C#. |  |
 | 21   | Implemente um programa C# que valide um endereço de e-mail usando expressões regulares. | Expressões regulares em C#. |  |
