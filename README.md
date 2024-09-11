@@ -21,7 +21,7 @@
 | 17   | Crie uma classe em C# para representar um sistema de gestão de funcionários com operações de adicionar, remover e atualizar informações dos funcionários. | POO em C#. | Concluído✅  |
 | 18   | Implemente um programa C# que calcule o valor de π (pi) usando a série de Leibniz. | Algoritmos de cálculo em C#. | Concluído✅  |
 | 19   | Escreva um programa C# que gere os primeiros N números da sequência de Fibonacci. | Laços de repetição em C#. | Concluído✅  | 
-| 20   | Crie uma classe em C# para representar um sistema de gerenciamento de produtos com operações de adicionar, remover e atualizar informações dos produtos. | POO em C#. |  |
+| 20   | Crie uma classe em C# para representar um sistema de gerenciamento de produtos com operações de adicionar, remover e atualizar informações dos produtos. | POO em C#.| Concluído✅  |
 | 21   | Implemente um programa C# que valide um endereço de e-mail usando expressões regulares. | Expressões regulares em C#. |  |
 | 22   | Escreva um programa C# que simule um jogo de dados (dados de 6 faces) com lançamentos e contagem de pontos. | Geração de números aleatórios em C#. |   |
 | 23   | Crie uma classe em C# para representar um sistema de gestão de clientes com operações de adicionar, remover e atualizar informações dos clientes. | POO em C#. |   |
