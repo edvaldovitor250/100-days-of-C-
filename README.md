@@ -14,7 +14,7 @@
 | 10   | Escreva um programa C# que converta uma temperatura de Celsius para Fahrenheit e vice-versa. | Conceitos básicos de conversão de unidades em C#. | Concluído✅  |
 | 11   | Crie uma classe em C# para representar um sistema de gestão de estoque com operações de adicionar, remover e atualizar itens. | POO em C#.  | Concluído✅  |
 | 12   | Implemente um programa C# que calcule a média de uma lista de números. | Manipulação de arrays em C#. | Concluído✅  |
-| 13   | Escreva um programa C# que verifique se uma string é um palíndromo. | Manipulação de strings em C#.| Concluído✅  | 
+| 13   | Escreva um programa C# que verifique se uma string é um palíndromo. | Manipulação de strings em C#. | Concluído✅  | 
 | 14   | Crie uma classe em C# para representar um sistema de gerenciamento de alunos com operações de adicionar, remover e atualizar informações dos alunos. | POO em C#. | Concluído✅  |
 | 15   | Implemente um programa C# que simule uma fila de banco, com operações de entrada e saída de clientes. | Estruturas de dados em C#. | Concluído✅  |
 | 16   | Escreva um programa C# que realize a multiplicação de matrizes. | Manipulação de matrizes em C#. | Concluído✅  |
@@ -23,7 +23,7 @@
 | 19   | Escreva um programa C# que gere os primeiros N números da sequência de Fibonacci. | Laços de repetição em C#. | Concluído✅  | 
 | 20   | Crie uma classe em C# para representar um sistema de gerenciamento de produtos com operações de adicionar, remover e atualizar informações dos produtos. | POO em C#.| Concluído✅  |
 | 21   | Implemente um programa C# que valide um endereço de e-mail usando expressões regulares. | Expressões regulares em C#.| Concluído✅  |
-| 22   | Escreva um programa C# que simule um jogo de dados (dados de 6 faces) com lançamentos e contagem de pontos. | Geração de números aleatórios em C#. |   |
+| 22   | Escreva um programa C# que simule um jogo de dados (dados de 6 faces) com lançamentos e contagem de pontos. | Geração de números aleatórios em C#.| Concluído✅  |
 | 23   | Crie uma classe em C# para representar um sistema de gestão de clientes com operações de adicionar, remover e atualizar informações dos clientes. | POO em C#. |   |
 | 24   | Implemente um programa C# que realize a busca binária em um array ordenado. | Algoritmos de busca em C#. |  |
 | 25   | Escreva um programa C# que faça a contagem de vogais em uma string. | Manipulação de strings em C#. |   |
