@@ -25,7 +25,7 @@
 | 21   | Implemente um programa C# que valide um endereço de e-mail usando expressões regulares. | Expressões regulares em C#.| Concluído✅  |
 | 22   | Escreva um programa C# que simule um jogo de dados (dados de 6 faces) com lançamentos e contagem de pontos. | Geração de números aleatórios em C#.| Concluído✅  |
 | 23   | Crie uma classe em C# para representar um sistema de gestão de clientes com operações de adicionar, remover e atualizar informações dos clientes. | POO em C#. | Concluído✅  |
-| 24   | Implemente um programa C# que realize a busca binária em um array ordenado. | Algoritmos de busca em C#. |  |
+| 24   | Implemente um programa C# que realize a busca binária em um array ordenado. | Algoritmos de busca em C#. | Concluído✅  |
 | 25   | Escreva um programa C# que faça a contagem de vogais em uma string. | Manipulação de strings em C#. |   |
 | 26   | Crie uma classe em C# para representar um sistema de gestão de vendas com operações de adicionar, remover e atualizar informações das vendas. | POO em C#. |   |
 | 27   | Implemente um programa C# que calcule o determinante de uma matriz. | Manipulação de matrizes em C#. |   |
