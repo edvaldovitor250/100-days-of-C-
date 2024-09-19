@@ -29,7 +29,7 @@
 | 25   | Escreva um programa C# que faça a contagem de vogais em uma string. | Manipulação de strings em C#. | Concluído✅  | 
 | 26   | Crie uma classe em C# para representar um sistema de gestão de vendas com operações de adicionar, remover e atualizar informações das vendas. | POO em C#. | Concluído✅  | 
 | 27   | Implemente um programa C# que calcule o determinante de uma matriz. | Manipulação de matrizes em C#. | Concluído✅  | 
-| 28   | Escreva um programa C# que simule um sistema de votação, contando votos e anunciando o vencedor. | Estruturas de controle em C#. | |
+| 28   | Escreva um programa C# que simule um sistema de votação, contando votos e anunciando o vencedor. | Estruturas de controle em C#. | Concluído✅  | 
 | 29   | Crie uma classe em C# para representar um sistema de gestão de pedidos com operações de adicionar, remover e atualizar informações dos pedidos. | POO em C#. | |
 | 30   | Implemente um programa C# que realize a ordenação topológica de um grafo. | Algoritmos de ordenação em C#. |  |
 | 31   | Escreva um programa C# que calcule o valor do seno de um ângulo usando a série de Taylor. | Algoritmos de cálculo em C#. |  |
