@@ -32,7 +32,7 @@
 | 28   | Escreva um programa C# que simule um sistema de votação, contando votos e anunciando o vencedor. | Estruturas de controle em C#. | Concluído✅  | 
 | 29   | Crie uma classe em C# para representar um sistema de gestão de pedidos com operações de adicionar, remover e atualizar informações dos pedidos. | POO em C#. | Concluído✅  |
 | 30   | Implemente um programa C# que realize a ordenação topológica de um grafo. | Algoritmos de ordenação em C#. | Concluído✅  | 
-| 31   | Escreva um programa C# que calcule o valor do seno de um ângulo usando a série de Taylor. | Algoritmos de cálculo em C#. |  |
+| 31   | Escreva um programa C# que calcule o valor do seno de um ângulo usando a série de Taylor. | Algoritmos de cálculo em C#. | Concluído✅  | 
 | 32   | Implemente um sistema de login e registro em C# utilizando conceitos de criptografia para armazenamento seguro de senhas. | Segurança em C#, Criptografia, POO           |    | 
 | 33   | Escreva um programa em C# que implemente o algoritmo de ordenação quicksort para ordenar uma lista de números inteiros. | Algoritmos de ordenação, C#           |  |
 | 34   | Desenvolva um aplicativo C# que simule o funcionamento de um sistema de reserva de passagens aéreas, permitindo a reserva, cancelamento e visualização de voos. | POO em C#, Aplicações em tempo real        |   |
