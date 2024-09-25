@@ -35,7 +35,7 @@
 | 31   | Escreva um programa C# que calcule o valor do seno de um ângulo usando a série de Taylor. | Algoritmos de cálculo em C#. | Concluído✅  | 
 | 32   | Implemente um sistema de login e registro em C# utilizando conceitos de criptografia para armazenamento seguro de senhas. | Segurança em C#, Criptografia, POO | Concluído✅  |
 | 33   | Escreva um programa em C# que implemente o algoritmo de ordenação quicksort para ordenar uma lista de números inteiros. | Algoritmos de ordenação, C# | Concluído✅  |
-| 34   | Desenvolva um aplicativo C# que simule o funcionamento de um sistema de reserva de passagens aéreas, permitindo a reserva, cancelamento e visualização de voos. | POO em C#, Aplicações em tempo real        |   |
+| 34   | Desenvolva um aplicativo C# que simule o funcionamento de um sistema de reserva de passagens aéreas, permitindo a reserva, cancelamento e visualização de voos. | POO em C#, Aplicações em tempo real | Concluído✅  |
 | 35   | Crie um sistema em C# para gerenciar uma agenda de contatos, com operações de adicionar, remover e atualizar informações de contatos. | POO em C#, Estruturas de dados em C#      |  |
 | 36   | Implemente um algoritmo em C# para encontrar o menor caminho em um grafo usando o algoritmo de Bellman-Ford. | Algoritmos de grafos, C#  |  |
 | 37   | Escreva um programa C# que simule uma rede social básica, permitindo que os usuários se cadastrem, adicionem amigos e compartilhem mensagens. | POO em C#, Aplicações em tempo real  |   |
