@@ -1,0 +1,15 @@
+C:\Users\edval\Downloads\100-days-of-Csharp\challenges\Day037\bin\Debug\net8.0\Day037.exe
+C:\Users\edval\Downloads\100-days-of-Csharp\challenges\Day037\bin\Debug\net8.0\Day037.deps.json
+C:\Users\edval\Downloads\100-days-of-Csharp\challenges\Day037\bin\Debug\net8.0\Day037.runtimeconfig.json
+C:\Users\edval\Downloads\100-days-of-Csharp\challenges\Day037\bin\Debug\net8.0\Day037.dll
+C:\Users\edval\Downloads\100-days-of-Csharp\challenges\Day037\bin\Debug\net8.0\Day037.pdb
+C:\Users\edval\Downloads\100-days-of-Csharp\challenges\Day037\obj\Debug\net8.0\Day037.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edval\Downloads\100-days-of-Csharp\challenges\Day037\obj\Debug\net8.0\Day037.AssemblyInfoInputs.cache
+C:\Users\edval\Downloads\100-days-of-Csharp\challenges\Day037\obj\Debug\net8.0\Day037.AssemblyInfo.cs
+C:\Users\edval\Downloads\100-days-of-Csharp\challenges\Day037\obj\Debug\net8.0\Day037.csproj.CoreCompileInputs.cache
+C:\Users\edval\Downloads\100-days-of-Csharp\challenges\Day037\obj\Debug\net8.0\Day037.sourcelink.json
+C:\Users\edval\Downloads\100-days-of-Csharp\challenges\Day037\obj\Debug\net8.0\Day037.dll
+C:\Users\edval\Downloads\100-days-of-Csharp\challenges\Day037\obj\Debug\net8.0\refint\Day037.dll
+C:\Users\edval\Downloads\100-days-of-Csharp\challenges\Day037\obj\Debug\net8.0\Day037.pdb
+C:\Users\edval\Downloads\100-days-of-Csharp\challenges\Day037\obj\Debug\net8.0\Day037.genruntimeconfig.cache
+C:\Users\edval\Downloads\100-days-of-Csharp\challenges\Day037\obj\Debug\net8.0\ref\Day037.dll
