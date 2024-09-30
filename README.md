@@ -39,7 +39,7 @@
 | 35   | Crie um sistema em C# para gerenciar uma agenda de contatos, com operações de adicionar, remover e atualizar informações de contatos. | POO em C#, Estruturas de dados em C#    | Concluído✅  | 
 | 36   | Implemente um algoritmo em C# para encontrar o menor caminho em um grafo usando o algoritmo de Bellman-Ford. | Algoritmos de grafos, C# | Concluído✅  |
 | 37   | Escreva um programa C# que simule uma rede social básica, permitindo que os usuários se cadastrem, adicionem amigos e compartilhem mensagens. | POO em C#, Aplicações em tempo real | Concluído✅  |
-| 38   | Desenvolva um aplicativo em C# que resolva o problema das oito rainhas, encontrando todas as soluções válidas para o tabuleiro de xadrez. | Algoritmos de backtracking, C#   |  |
+| 38   | Desenvolva um aplicativo em C# que resolva o problema das oito rainhas, encontrando todas as soluções válidas para o tabuleiro de xadrez. | Algoritmos de backtracking, C#  | Concluído✅  |
 | 39   | Crie um sistema C# para gerenciar uma loja online, com funcionalidades de adicionar produtos ao carrinho, fazer pedidos e calcular o total da compra. | POO em C#, Estruturas de dados em C#  |   |
 | 40   | Implemente um algoritmo em C# para encontrar todos os pares de elementos em uma lista cuja soma seja igual a um determinado valor. | Algoritmos de busca, C#   |   |
 | 41   | Escreva um programa C# que simule o funcionamento de um sistema de reservas em um cinema, permitindo a reserva de assentos e a visualização de sessões disponíveis. | POO em C#, Aplicações em tempo real        |   |
