@@ -1,0 +1,5 @@
+C:\Users\edval\Downloads\100-days-of-Csharp\challenges\Day039\obj\Debug\net8.0\Day039.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edval\Downloads\100-days-of-Csharp\challenges\Day039\obj\Debug\net8.0\Day039.AssemblyInfoInputs.cache
+C:\Users\edval\Downloads\100-days-of-Csharp\challenges\Day039\obj\Debug\net8.0\Day039.AssemblyInfo.cs
+C:\Users\edval\Downloads\100-days-of-Csharp\challenges\Day039\obj\Debug\net8.0\Day039.csproj.CoreCompileInputs.cache
+C:\Users\edval\Downloads\100-days-of-Csharp\challenges\Day039\obj\Debug\net8.0\Day039.sourcelink.json
