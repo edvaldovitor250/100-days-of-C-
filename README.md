@@ -45,8 +45,8 @@
 | 41   | Escreva um programa C# que simule o funcionamento de um sistema de reservas em um cinema, permitindo a reserva de assentos e a visualização de sessões disponíveis. | POO em C#, Aplicações em tempo real  | Concluído✅  |
 | 42   | Crie um programa C# que implemente o algoritmo de Kruskal para encontrar a árvore geradora mínima de um grafo ponderado. | Algoritmos de grafos, Estruturas de dados em C# | Concluído✅  |
 | 43   | Desenvolva um aplicativo em C# que permita ao usuário criar e manipular arquivos PDF, como adicionar páginas, texto e imagens. | Manipulação de arquivos, C#, Bibliotecas externas  | Concluído✅  | 
-| 44   | Implemente um algoritmo em C# para resolver o problema do caminho mais curto em um grafo utilizando o algoritmo A* (A estrela). | Algoritmos de busca, C#, Inteligência Artificial |   |
-| 45   | Crie um sistema C# para gerenciar um hospital, com funcionalidades para adicionar pacientes, agendar consultas e gerenciar registros médicos. | POO em C#, Aplicações em tempo real  |   |
+| 44   | Implemente um algoritmo em C# para resolver o problema do caminho mais curto em um grafo utilizando o algoritmo A* (A estrela). | Algoritmos de busca, C#, Inteligência Artificial | Concluído✅  |
+| 45   | Crie um sistema C# para gerenciar um hospital, com funcionalidades para adicionar pacientes, agendar consultas e gerenciar registros médicos. | POO em C#, Aplicações em tempo real  | Concluído✅  |
 | 46   | Escreva um programa C# que implemente o algoritmo de Huffman para compressão de dados, incluindo a construção da árvore de Huffman e a codificação dos dados. | Algoritmos de compressão, C# |   |
 | 47   | Desenvolva um aplicativo C# que simule o funcionamento de um sistema bancário, permitindo a criação de contas, depósitos, saques e transferências. | POO em C#, Aplicações em tempo real |  |
 | 48   | Implemente um algoritmo em C# para encontrar o conjunto independente máximo de um grafo utilizando técnicas de otimização. | Algoritmos de grafos, C#, Otimização  |   |
