@@ -50,7 +50,7 @@
 | 46   | Escreva um programa C# que implemente o algoritmo de Huffman para compressão de dados, incluindo a construção da árvore de Huffman e a codificação dos dados. | Algoritmos de compressão, C# | Concluído✅  |
 | 47   | Desenvolva um aplicativo C# que simule o funcionamento de um sistema bancário, permitindo a criação de contas, depósitos, saques e transferências. | POO em C#, Aplicações em tempo real | Concluído✅  |
 | 48   | Implemente um algoritmo em C# para encontrar o conjunto independente máximo de um grafo utilizando técnicas de otimização. | Algoritmos de grafos, C#, Otimização | Concluído✅  |
-| 49   | Crie um programa C# que implemente o algoritmo de Ford-Fulkerson para encontrar o fluxo máximo em uma rede de fluxo. | Algoritmos de grafos, C# |  |
+| 49   | Crie um programa C# que implemente o algoritmo de Ford-Fulkerson para encontrar o fluxo máximo em uma rede de fluxo. | Algoritmos de grafos, C#| Concluído✅  | 
 | 50   | Desenvolva um aplicativo C# que permita ao usuário criar e gerenciar projetos de software, com funcionalidades de controle de versões, histórico de commits e geração de relatórios. | POO em C#, Controle de versões, Bibliotecas externas |  |
 | 51   | Implemente um algoritmo em C# para encontrar o caminho euleriano em um grafo. | Algoritmos de grafos, C# |  |
 | 52   | Crie um sistema C# para gerenciar uma biblioteca, com funcionalidades de empréstimo, devolução e reserva de livros. | POO em C#, Aplicações em tempo real |  |
