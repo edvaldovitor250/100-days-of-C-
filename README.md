@@ -55,7 +55,7 @@
 | 51   | Implemente um algoritmo em C# para encontrar o caminho euleriano em um grafo. | Algoritmos de grafos, C#  | Concluído✅  |
 | 52   | Crie um sistema C# para gerenciar uma biblioteca, com funcionalidades de empréstimo, devolução e reserva de livros. | POO em C#, Aplicações em tempo real  | Concluído✅  |
 | 53   | Desenvolva um aplicativo em C# que simule o funcionamento de uma calculadora gráfica, permitindo ao usuário plotar gráficos de funções matemáticas. | POO em C#, Manipulação de gráficos | Concluído✅  |
-| 54   | Implemente um algoritmo em C# para resolver o problema do caixeiro viajante utilizando programação dinâmica. | Algoritmos de otimização, C# | Concluído✅  |
+| 54   | Implemente um algoritmo em C# para resolver o problema do caixeiro viajante utilizando programação dinâmica. | Algoritmos de otimização, C# | Concluído✅ |
 | 55   | Escreva um programa C# que implemente um sistema de chat em tempo real, permitindo a comunicação entre vários usuários. | POO em C#, Aplicações em tempo real |  |
 | 56   | Crie um sistema C# para gerenciar uma rede de transporte, com funcionalidades para adicionar rotas, calcular distâncias e otimizar trajetos. | POO em C#, Algoritmos de grafos | |
 | 57   | Implemente um algoritmo em C# para encontrar os componentes fortemente conectados de um grafo. | Algoritmos de grafos, C# |  |
