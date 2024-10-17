@@ -57,7 +57,7 @@
 | 53   | Desenvolva um aplicativo em C# que simule o funcionamento de uma calculadora gráfica, permitindo ao usuário plotar gráficos de funções matemáticas. | POO em C#, Manipulação de gráficos | Concluído✅  |
 | 54   | Implemente um algoritmo em C# para resolver o problema do caixeiro viajante utilizando programação dinâmica. | Algoritmos de otimização, C# | Concluído✅ |
 | 55   | Escreva um programa C# que implemente um sistema de chat em tempo real, permitindo a comunicação entre vários usuários. | POO em C#, Aplicações em tempo real | Concluído✅  |
-| 56   | Crie um sistema C# para gerenciar uma rede de transporte, com funcionalidades para adicionar rotas, calcular distâncias e otimizar trajetos. | POO em C#, Algoritmos de grafos | Concluído✅  |
+| 56   | Crie um sistema C# para gerenciar uma rede de transporte, com funcionalidades para adicionar rotas, calcular distâncias e otimizar trajetos. | POO em C#, Algoritmos de grafos | Concluído✅ |
 | 57   | Implemente um algoritmo em C# para encontrar os componentes fortemente conectados de um grafo. | Algoritmos de grafos, C# |  |
 | 58   | Desenvolva um aplicativo em C# que permita ao usuário criar e manipular imagens, aplicando filtros e transformações. | Manipulação de imagens, C#, Bibliotecas externas |  |
 | 59   | Crie um programa C# que implemente o algoritmo de Prim para encontrar a árvore geradora mínima de um grafo ponderado. | Algoritmos de grafos, Estruturas de dados em C# |  |
