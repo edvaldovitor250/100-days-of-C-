@@ -59,7 +59,7 @@
 | 55   | Escreva um programa C# que implemente um sistema de chat em tempo real, permitindo a comunicação entre vários usuários. | POO em C#, Aplicações em tempo real | Concluído✅  |
 | 56   | Crie um sistema C# para gerenciar uma rede de transporte, com funcionalidades para adicionar rotas, calcular distâncias e otimizar trajetos. | POO em C#, Algoritmos de grafos | Concluído✅ |
 | 57   | Implemente um algoritmo em C# para encontrar os componentes fortemente conectados de um grafo. | Algoritmos de grafos, C# | Concluído✅  |
-| 58   | Desenvolva um aplicativo em C# que permita ao usuário criar e manipular imagens, aplicando filtros e transformações. | Manipulação de imagens, C#, Bibliotecas externas |  |
+| 58   | Desenvolva um aplicativo em C# que permita ao usuário criar e manipular imagens, aplicando filtros e transformações. | Manipulação de imagens, C#, Bibliotecas externas | Concluído✅  |
 | 59   | Crie um programa C# que implemente o algoritmo de Prim para encontrar a árvore geradora mínima de um grafo ponderado. | Algoritmos de grafos, Estruturas de dados em C# |  |
 | 60   | Implemente um sistema em C# para gerenciar uma fábrica, com funcionalidades para controlar a produção, o estoque e a logística. | POO em C#, Aplicações em tempo real | |
 | 61   | Escreva um programa C# que implemente um sistema de recomendação de filmes, baseado em classificações dos usuários. | Algoritmos de recomendação, C# |  |
