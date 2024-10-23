@@ -63,7 +63,7 @@
 | 59   | Crie um programa C# que implemente o algoritmo de Prim para encontrar a árvore geradora mínima de um grafo ponderado. | Algoritmos de grafos, Estruturas de dados em C# | Concluído✅  |
 | 60   | Implemente um sistema em C# para gerenciar uma fábrica, com funcionalidades para controlar a produção, o estoque e a logística. | POO em C#, Aplicações em tempo real  | Concluído✅  |
 | 61   | Escreva um programa C# que implemente um sistema de recomendação de filmes, baseado em classificações dos usuários. | Algoritmos de recomendação, C#| Concluído✅  | 
-| 62   | Crie um sistema C# para gerenciar uma corretora de ações, com funcionalidades para compra, venda e análise de ações. | POO em C#, Aplicações financeiras |  |
+| 62   | Crie um sistema C# para gerenciar uma corretora de ações, com funcionalidades para compra, venda e análise de ações. | POO em C#, Aplicações financeiras | Concluído✅  |
 | 63   | Desenvolva um aplicativo em C# que implemente o algoritmo de Dijkstra para encontrar o caminho mais curto em um grafo. | Algoritmos de grafos, C# |  |
 | 64   | Implemente um sistema em C# para gerenciar uma loja de roupas, com funcionalidades para adicionar produtos, gerenciar estoque e processar vendas. | POO em C#, Aplicações em tempo real |  |
 | 65   | Escreva um programa C# que implemente um sistema de gerenciamento de inventário para um supermercado. | POO em C#, Estruturas de dados |  |
