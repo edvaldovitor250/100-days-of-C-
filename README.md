@@ -65,7 +65,7 @@
 | 61   | Escreva um programa C# que implemente um sistema de recomendação de filmes, baseado em classificações dos usuários. | Algoritmos de recomendação, C#| Concluído✅  | 
 | 62   | Crie um sistema C# para gerenciar uma corretora de ações, com funcionalidades para compra, venda e análise de ações. | POO em C#, Aplicações financeiras | Concluído✅  |
 | 63   | Desenvolva um aplicativo em C# que implemente o algoritmo de Dijkstra para encontrar o caminho mais curto em um grafo. | Algoritmos de grafos, C# | Concluído✅  |
-| 64   | Implemente um sistema em C# para gerenciar uma loja de roupas, com funcionalidades para adicionar produtos, gerenciar estoque e processar vendas. | POO em C#, Aplicações em tempo real |  |
+| 64   | Implemente um sistema em C# para gerenciar uma loja de roupas, com funcionalidades para adicionar produtos, gerenciar estoque e processar vendas. | POO em C#, Aplicações em tempo real | Concluído✅  |
 | 65   | Escreva um programa C# que implemente um sistema de gerenciamento de inventário para um supermercado. | POO em C#, Estruturas de dados |  |
 | 66   | Crie um sistema C# para gerenciar uma escola, com funcionalidades para gerenciar alunos, professores, e turmas. | POO em C#, Aplicações educacionais |  |
 | 67   | Desenvolva um aplicativo em C# que simule o funcionamento de uma caixa registradora, com funcionalidades para calcular troco e registrar compras. | POO em C#, Aplicações comerciais |  |
