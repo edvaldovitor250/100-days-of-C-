@@ -68,7 +68,7 @@
 | 64   | Implemente um sistema em C# para gerenciar uma loja de roupas, com funcionalidades para adicionar produtos, gerenciar estoque e processar vendas. | POO em C#, Aplicações em tempo real | Concluído✅  |
 | 65   | Escreva um programa C# que implemente um sistema de gerenciamento de inventário para um supermercado. | POO em C#, Estruturas de dados | Concluído✅  |
 | 66   | Crie um sistema C# para gerenciar uma escola, com funcionalidades para gerenciar alunos, professores, e turmas. | POO em C#, Aplicações educacionais | Concluído✅  |
-| 67   | Desenvolva um aplicativo em C# que simule o funcionamento de uma caixa registradora, com funcionalidades para calcular troco e registrar compras. | POO em C#, Aplicações comerciais |  |
+| 67   | Desenvolva um aplicativo em C# que simule o funcionamento de uma caixa registradora, com funcionalidades para calcular troco e registrar compras. | POO em C#, Aplicações comerciais | Concluído✅  | 
 | 68   | Implemente um sistema em C# para gerenciar um hotel, com funcionalidades para reserva de quartos, check-in e check-out. | POO em C#, Aplicações em tempo real |  |
 | 69   | Escreva um programa C# que implemente um sistema de gerenciamento de projetos, com funcionalidades para criar, editar e acompanhar o progresso de projetos. | POO em C#, Aplicações de gerenciamento |  |
 | 70   | Crie um sistema C# para gerenciar uma academia, com funcionalidades para gerenciar alunos, planos de treino e agendamento de aulas. | POO em C#, Aplicações em tempo real |  |
