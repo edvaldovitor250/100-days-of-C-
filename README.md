@@ -75,7 +75,7 @@
 | 71   | Desenvolva um aplicativo em C# que implemente um sistema de agendamento de consultas médicas, com funcionalidades para adicionar, editar e cancelar consultas. | POO em C#, Aplicações de saúde | Concluído✅  |
 | 72   | Implemente um sistema em C# para gerenciar uma agência de viagens, com funcionalidades para reserva de pacotes, voos e hotéis. | POO em C#, Aplicações de turismo | Concluído✅  |
 | 73   | Escreva um programa C# que implemente um sistema de recomendação de músicas, baseado nas preferências dos usuários. | Algoritmos de recomendação, C# | Concluído✅  |
-| 74   | Crie um sistema C# para gerenciar uma biblioteca de mídia, com funcionalidades para adicionar, organizar e reproduzir arquivos de áudio e vídeo. | POO em C#, Manipulação de mídia |  |
+| 74   | Crie um sistema C# para gerenciar uma biblioteca de mídia, com funcionalidades para adicionar, organizar e reproduzir arquivos de áudio e vídeo. | POO em C#, Manipulação de mídia | Concluído✅  | 
 | 75   | Desenvolva um aplicativo em C# que implemente um sistema de rastreamento de entregas, com funcionalidades para gerenciar pedidos e acompanhar o status das entregas. | POO em C#, Aplicações de logística |  |
 | 76   | Implemente um sistema em C# para gerenciar uma clínica odontológica, com funcionalidades para gerenciar pacientes, agendar consultas e manter registros odontológicos. | POO em C#, Aplicações de saúde |  |
 | 77   | Escreva um programa C# que implemente um sistema de gerenciamento de conteúdo para um site, permitindo criar, editar e publicar artigos. | POO em C#, Aplicações web |  |
