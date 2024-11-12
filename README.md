@@ -81,7 +81,7 @@
 | 77   | Escreva um programa C# que implemente um sistema de gerenciamento de conteúdo para um site, permitindo criar, editar e publicar artigos. | POO em C#, Aplicações web | Concluído✅  |
 | 78   | Crie um sistema C# para gerenciar um estúdio de fotografia, com funcionalidades para agendamento de sessões, gerenciamento de clientes e edição de fotos. | POO em C#, Aplicações criativas | Concluído✅  |
 | 79   | Desenvolva um aplicativo em C# que implemente um sistema de controle de acesso, permitindo gerenciar permissões e autorizações de usuários em um sistema. | POO em C#, Segurança | Concluído✅  |
-| 80   | Implemente um sistema em C# para gerenciar um parque de diversões, com funcionalidades para gerenciar ingressos, atrações e visitantes. | POO em C#, Aplicações de entretenimento |  |
+| 80   | Implemente um sistema em C# para gerenciar um parque de diversões, com funcionalidades para gerenciar ingressos, atrações e visitantes. | POO em C#, Aplicações de entretenimento | Concluído✅  |
 | 81   | Escreva um programa C# que implemente um sistema de gerenciamento de um restaurante, permitindo gerenciar mesas, pedidos e pagamentos. | POO em C#, Aplicações de serviço |  |
 | 82   | Crie um sistema C# para gerenciar uma empresa de transporte, com funcionalidades para gerenciar rotas, veículos e motoristas. | POO em C#, Aplicações de logística | |
 | 83   | Desenvolva um aplicativo em C# que implemente um sistema de gerenciamento de um centro de convenções, permitindo agendar e gerenciar eventos. | POO em C#, Aplicações de eventos |  |
