@@ -86,7 +86,7 @@
 | 82   | Crie um sistema C# para gerenciar uma empresa de transporte, com funcionalidades para gerenciar rotas, veículos e motoristas. | POO em C#, Aplicações de logística | Concluído✅  | 
 | 83   | Desenvolva um aplicativo em C# que implemente um sistema de gerenciamento de um centro de convenções, permitindo agendar e gerenciar eventos. | POO em C#, Aplicações de eventos | Concluído✅  |
 | 84   | Implemente um sistema em C# para gerenciar uma galeria de arte, com funcionalidades para gerenciar exposições, artistas e obras de arte. | POO em C#, Aplicações culturais | Concluído✅  |
-| 85   | Escreva um programa C# que implemente um sistema de gerenciamento de um clube esportivo, permitindo gerenciar sócios, atividades e eventos. | POO em C#, Aplicações de esportes |  |
+| 85   | Escreva um programa C# que implemente um sistema de gerenciamento de um clube esportivo, permitindo gerenciar sócios, atividades e eventos. | POO em C#, Aplicações de esportes | Concluído✅  |
 | 86   | Crie um sistema C# para gerenciar uma construtora, com funcionalidades para gerenciar projetos, equipes e materiais de construção. | POO em C#, Aplicações de engenharia |  |
 | 87   | Desenvolva um aplicativo em C# que implemente um sistema de gerenciamento de um hotel fazenda, permitindo gerenciar reservas, atividades e passeios. | POO em C#, Aplicações de turismo |  |
 | 88   | Implemente um sistema em C# para gerenciar uma fábrica de alimentos, com funcionalidades para gerenciar produção, estoque e distribuição. | POO em C#, Aplicações industriais |  |
