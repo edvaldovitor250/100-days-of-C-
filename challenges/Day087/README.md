@@ -3,7 +3,6 @@
 ## Desafio:
 
 	Desenvolva um aplicativo em C# que implemente um sistema de gerenciamento de um hotel fazenda, permitindo gerenciar reservas, atividades e passeios.
-
 **Resultado:**
 
 ```cshap
