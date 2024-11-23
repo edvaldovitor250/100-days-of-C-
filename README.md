@@ -92,7 +92,7 @@
 | 88   | Implemente um sistema em C# para gerenciar uma fábrica de alimentos, com funcionalidades para gerenciar produção, estoque e distribuição. | POO em C#, Aplicações industriais | Concluído✅  |
 | 89   | Escreva um programa C# que implemente um sistema de gerenciamento de um parque nacional, permitindo gerenciar trilhas, visitantes e conservação. | POO em C#, Aplicações ambientais | Concluído✅  | 
 | 90   | Crie um sistema C# para gerenciar uma estação de esqui, com funcionalidades para gerenciar pistas, aluguel de equipamentos e aulas. | POO em C#, Aplicações de esportes | Concluído✅  |
-| 91   | Desenvolva um aplicativo em C# que implemente um sistema de gerenciamento de um spa, permitindo gerenciar tratamentos, clientes e agendamentos. | POO em C#, Aplicações de bem-estar |  |
+| 91   | Desenvolva um aplicativo em C# que implemente um sistema de gerenciamento de um spa, permitindo gerenciar tratamentos, clientes e agendamentos. | POO em C#, Aplicações de bem-estar | Concluído✅  |
 | 92   | Implemente um sistema em C# para gerenciar uma empresa de catering, com funcionalidades para gerenciar eventos, cardápios e clientes. | POO em C#, Aplicações de serviço |  |
 | 93   | Escreva um programa C# que implemente um sistema de gerenciamento de uma escola de música, permitindo gerenciar aulas, alunos e professores. | POO em C#, Aplicações educacionais |  |
 | 94   | Crie um sistema C# para gerenciar um estúdio de gravação, com funcionalidades para agendamento de sessões, gravação de áudio e produção musical. | POO em C#, Aplicações criativas |  |
