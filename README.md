@@ -1,5 +1,8 @@
 # 100-days-of-C#
 
+## Início: 23 Agosto
+## Fim: 30 Novembro
+
 | Dia  | Desafio                                                   | Recursos                                           | Status  |
 |------|-----------------------------------------------------------|----------------------------------------------------|--------|
 | 1    | Escreva um programa C# que imprima "Olá, Mundo!" no console. | Conceitos básicos de C#, saída no console. | Concluído✅  |
