@@ -100,5 +100,5 @@
 | 96   | Implemente um sistema em C# para gerenciar uma empresa de segurança, com funcionalidades para gerenciar contratos, clientes e equipes de segurança. | POO em C#, Segurança  | Concluído✅  | 
 | 97   | Escreva um programa C# que implemente um sistema de gerenciamento de uma escola de idiomas, permitindo gerenciar turmas, alunos e professores. | POO em C#, Aplicações educacionais | Concluído✅  | 
 | 98   | Crie um sistema C# para gerenciar uma fábrica de móveis, com funcionalidades para gerenciar produção, estoque e vendas. | POO em C#, Aplicações industriais | Concluído✅  | 
-| 99   | Desenvolva um aplicativo em C# que implemente um sistema de gerenciamento de uma fazenda, permitindo gerenciar produção, estoque e vendas de produtos agrícolas. | POO em C#, Aplicações agrícolas |  |
+| 99   | Desenvolva um aplicativo em C# que implemente um sistema de gerenciamento de uma fazenda, permitindo gerenciar produção, estoque e vendas de produtos agrícolas. | POO em C#, Aplicações agrícolas| Concluído✅  | 
 | 100  | Implemente um sistema em C# para gerenciar uma empresa de tecnologia, com funcionalidades para gerenciar projetos, equipes e clientes. | POO em C#, Aplicações de tecnologia | |
